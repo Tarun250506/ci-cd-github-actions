@@ -407,7 +407,7 @@ This project demonstrates practical experience with:
 - REST API development with FastAPI.
 - Docker image creation and containerization.
 - Basic CI pipeline security practices.
-
+CI/CD demonstration: automated tests and Docker image build run through GitHub Actions.
 ---
 
 ## 👨‍💻 Author
